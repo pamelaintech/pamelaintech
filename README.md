@@ -12,8 +12,8 @@
         ✧ Currently working on full stack projects<br>
         ✧ Techs I use: PHP, JavaScript, HTML5, CSS3, Java, MySQL,
         C#, Python, TypeScript<br>
-        ✧ Currently learning (and totally loving): Rust and Solidity <br>
-        ✧ Languages: Portuguese (native), English (C1), Spanish (B2), Italian (B1), Korean (A2) <br>
+        ✧ Currently learning (and totally loving): Rust (not Ariel, but I’ve got a 🦀 by my side, haha) and Solidity <br>
+        ✧ Languages: Portuguese (native), English (B2), Spanish (B1), Italian (A2), Korean (A2), French (A1), Chinese (A1)<br>
         ✧ Engaged in and volunteering for: Tech, animal welfare, environmental causes, and social service<br>
               </div>
     </td>
