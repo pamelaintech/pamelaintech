@@ -7,13 +7,14 @@
       <div align="left">
         ✧ Systems Analysis and Development<br>
         ✧ Software Engineering<br>
+        ✧ Jovem Cientista Carioca 2025 <br>
         ✧ Graduate of the Residency Program in ICTs, an initiative by the Ministry of Science, 
         Technology, and Innovation (MCTI)<br>
         ✧ Currently working on full stack projects<br>
         ✧ Techs I use: PHP, JavaScript, HTML5, CSS3, Java, MySQL,
         C#, Python, TypeScript<br>
         ✧ Currently learning (and totally loving): Rust (not Ariel, but I’ve got a 🦀 by my side, haha) and Solidity <br>
-        ✧ Languages: Portuguese (native), English (B2), Spanish (B1), Italian (A2), Korean (A2), French (A1), Chinese (A1)<br>
+        ✧ Languages: Portuguese (native), English (B2), Spanish (B1), Korean (A2)
         ✧ Engaged in and volunteering for: Tech, animal welfare, environmental causes, and social service<br>
               </div>
     </td>
